@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42e60ac1-d7f6-43b6-ae75-26cf3af193fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_1-2/src/test/resources/accounts.schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_3/.appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-1.2_3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/src/test/java/ru/netology/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/src/test/java/ru/netology/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/src/test/java/ru/netology/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/src/test/java/ru/netology/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/src/test/java/ru/netology/test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-3.2_SQL/src/test/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA/artifacts/app-ibank-build-for-testers.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA_2.3-2_Patterns/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA_2.3-2_Patterns/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA_2.3.1_Patterns/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA_2.3.1_Patterns/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA_2.3.1_Patterns/src/test/java/ru/netology/data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA_2.3.1_Patterns/src/test/java/ru/netology/data/RegistrationByCardInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA_2.3.1_Patterns/src/test/java/ru/netology/test/TestingForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_QA/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_4.2_TicketSearch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_4.2_TicketSearch/src/main/java/ru/netology/domain/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_4.2_TicketSearch/src/ru.netology.domain.Ticket" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/gate-simulator/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/gate-simulator/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/gate-simulator/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/gate-simulator/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/gate-simulator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/src/test/java/ru.netology/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/src/test/java/ru.netology/data/DebitCardPaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/src/test/java/ru.netology/data/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QA_Diplom_Girfatova/src/test/java/ru.netology/page/CreditCardPaymentPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/api-ci/rest/src/test/resources/accounts.schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.2(1-2)/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.2(1-2)/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.2(1-2)/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.2(1-2)/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.2(1-2)/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.2(1-2)/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/AQA-1.2(1-2)/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/src/main/java/ru/netology/unit/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/src/main/java/ru/netology/unit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit4-unit/src/test/java/ru/netology/unit/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/src/main/java/ru/netology/unit/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/src/main/java/ru/netology/unit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/basics/junit5-unit/src/test/java/ru/netology/unit/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/main/java/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/main/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/test/java/ru/netology/web/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/test/java/ru/netology/web/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/test/java/ru/netology/web/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/test/java/ru/netology/web/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/test/java/ru/netology/web/step/TemplateSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/akita/src/test/resources/features/Вход.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/src/test/java/ru/netology/web/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/src/test/java/ru/netology/web/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/src/test/java/ru/netology/web/page/LoginPageV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/src/test/java/ru/netology/web/page/LoginPageV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/src/test/java/ru/netology/web/page/LoginPageV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/src/test/java/ru/netology/web/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/bdd/page-object/src/test/java/ru/netology/web/test/MoneyTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/node/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/node/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/node/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/node/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/node/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/docker/node/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/src/test/java/ru/netology/delivery/data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task1/src/test/java/ru/netology/delivery/test/DeliveryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/src/test/java/ru/netology/testmode/data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/patterns/patterns-task2/src/test/java/ru/netology/testmode/test/AuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/src/test/java/ru/netology/web/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/src/test/java/ru/netology/web/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/src/test/java/ru/netology/web/page/LoginPageV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/src/test/java/ru/netology/web/page/LoginPageV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/src/test/java/ru/netology/web/page/LoginPageV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/src/test/java/ru/netology/web/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/allure/src/test/java/ru/netology/web/test/MoneyTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/artifacts/app-card-delivery.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/java/ru/netology/util/LoggingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/java/ru/netology/util/ScreenShooterReportPortalExtension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/java/ru/netology/web/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/java/ru/netology/web/OrderCardWithFakerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/resources/META-INF/services/org.junit.jupiter.api.extension.Extension" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/reporting/selenide-reportportal/src/test/resources/reportportal.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/selenide/selenide/src/test/java/ru/netology/web/RegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/src/test/java/ru/netology/DbInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/src/test/java/ru/netology/DbInteractionDbUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/src/test/java/ru/netology/mode/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/src/test/resources/requests.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/sql/src/test/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenide/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenide/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenide/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenide/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenide/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenide/src/test/java/ru/netology/web/CallbackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/driver/linux/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/driver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/driver/win/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aqa-code-master/web/selenium/src/test/java/ru/netology/web/CallbackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-3.2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Like.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Repost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Views.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AKeQhChsFkPYm6TT9rLjd4tEYU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e60ac1-d7f6-43b6-ae75-26cf3af193fe" name="Changes" comment="" />
+      <created>1654762691667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654762691667</updated>
+      <workItem from="1654762694738" duration="3060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
