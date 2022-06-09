@@ -237,6 +237,7 @@
       <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Post.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Repost.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-3.2/src/main/java/ru/netology/domain/Views.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +275,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654762691667</updated>
-      <workItem from="1654762694738" duration="3395000" />
+      <workItem from="1654762694738" duration="3844000" />
     </task>
     <servers />
   </component>
