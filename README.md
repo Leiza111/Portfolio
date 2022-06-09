@@ -30,4 +30,4 @@ Telegram: @LeizaGir
 
 Email: leiza-rad@yandex.ru
 
-[Резюме]()
+[Резюме](https://disk.yandex.ru/i/6fehiNVNngpRIw)
